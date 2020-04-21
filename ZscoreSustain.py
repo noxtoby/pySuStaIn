@@ -9,8 +9,8 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
-from AbstractSustain import AbstractSustainData
-from AbstractSustain import AbstractSustain
+from .AbstractSustain import AbstractSustainData
+from .AbstractSustain import AbstractSustain
 
 #*******************************************
 #The data structure class for ZscoreSustain. It holds the z-scored data that gets passed around and re-indexed in places.
