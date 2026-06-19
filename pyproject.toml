@@ -21,7 +21,7 @@ dependencies = [
   "scipy",
   "matplotlib>=3.10.8",
   "scikit-learn",
-  "pandas>=3.0.0",
+  "pandas>=2.2.0",
   "pybind11",
   "tqdm"
 ]
